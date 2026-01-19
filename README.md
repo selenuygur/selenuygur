@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on maritime cybersecurity risk analysis and decision-support models using Python and System Dynamics.<br>👯 I’m looking to collaborate on research projects on maritime cybersecurity, AIS/VTS analytics, and maritime risk & resilience modelling.<br>🤝 I’m looking for help with SOC workflows, SIEM log analysis, and threat intelligence automation for maritime systems.<br>🌱 I’m currently learning Python for cybersecurity automation, cloud fundamentals (AWS/Azure), and network security (CCNA-level).<br>💬 Ask me about maritime cyber risk, decarbonization policies (IMO/EU), System Dynamics modelling, and AIS/VTS data analytics.<br>⚡ Fun fact: I combine sea-going experience with academic research to solve real maritime industry problems.
+
 
 
 ## 🌐 Socials:
